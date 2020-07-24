@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="yes"?>
+<TRTElementInformationList>
+  <RTHeader/>
+  <ClassInstance Type="TRTElementInformationList" Name="Elements">
+    <TRTPSEElementList/>
+    <Date>17.7.2020</Date>
+    <Time>15:24:6</Time>
+    <ClassInstance Type="TRTSpectrumRegionList" Name="Regions"/>
+    <ClassInstance Type="TRTHardwareInputChannelList" Name="HWInputs"/>
+    <ChildClassInstances>
+      <ClassInstance Type="TRTPSEElement" Name="Na">
+        <Element>11</Element>
+        <Color>255</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Mg">
+        <Element>12</Element>
+        <Color>65280</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Al">
+        <Element>13</Element>
+        <Color>16711680</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Si">
+        <Element>14</Element>
+        <Color>16776960</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="K">
+        <Element>19</Element>
+        <Color>16711935</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Ca">
+        <Element>20</Element>
+        <Color>65535</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Ti">
+        <Element>22</Element>
+        <Color>32767</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Fe">
+        <Element>26</Element>
+        <Color>8388352</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Sr">
+        <Element>38</Element>
+        <Color>16711807</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Zr">
+        <Element>40</Element>
+        <Color>8323327</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Zn">
+        <Element>30</Element>
+        <Color>65407</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Mn">
+        <Element>25</Element>
+        <Color>255</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+      <ClassInstance Type="TRTPSEElement" Name="Rb">
+        <Element>37</Element>
+        <Color>65280</Color>
+        <AutomaticMode>1</AutomaticMode>
+      </ClassInstance>
+    </ChildClassInstances>
+  </ClassInstance>
+</TRTElementInformationList>
